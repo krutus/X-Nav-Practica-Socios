@@ -1,0 +1,16 @@
+[
+	   {
+			"autor": "LJ23",
+			"avatar": "http://blogs-images.forbes.com/kurtbadenhausen/files/2014/07/0324_lebron-james_650x455.jpg",
+			"titulo": "To the finals!!!",
+			"contenido": "Happy with this win tonight.",
+			"fecha": "15/05/2015"
+	   },
+	   {
+			"autor": "Pau Gasol",
+			"avatar": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/996.png&w=350&h=254",
+			"titulo": "Otra vez será",
+			"contenido": "Ha sido duro, pero esto nos enseñará como mejorar de cara a la siguiente temporada.",
+			"fecha": "16/05/2015"
+	   }
+]

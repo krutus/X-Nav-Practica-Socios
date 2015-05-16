@@ -1,0 +1,42 @@
+body {
+	font: 62.5% , cursive;
+	background-color: #8B0000;
+}
+
+#Titulo {
+	text-align: center;
+	font-size: 90px;
+}
+
+img {
+    height: 100px;
+    float: left;
+}
+
+#tabs {
+	background-color: #222222;
+	background: #222222;
+}
+
+.noticia {
+	height: 150px;
+	border-style: solid;
+	border-width: 3px;
+	margin: 5px 0;
+	background-color: #A52A2A;
+}
+
+.noticia p, .noticia button {
+	margin-left: 20px;
+	font-size: 13px;
+}
+
+.noticia img {
+	margin: 5px;
+}
+
+p {
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
